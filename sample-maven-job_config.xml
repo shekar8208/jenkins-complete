@@ -17,7 +17,7 @@
       <configVersion>2</configVersion>
       <userRemoteConfigs>
         <hudson.plugins.git.UserRemoteConfig>
-          <url>https://github.com/jagadish12/simple-java-maven-app.git</url>
+          <url>https://github.com/shekar8208/simple-java-maven-app-1.git</url>
           <credentialsId>github</credentialsId>
         </hudson.plugins.git.UserRemoteConfig>
       </userRemoteConfigs>
